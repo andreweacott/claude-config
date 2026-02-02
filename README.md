@@ -9,7 +9,6 @@ Personal Claude Code setup (agents, commands, workflows) managed with GNU Stow f
 | `claude/CLAUDE.md` | Global instructions and preferences |
 | `claude/agents/` | Custom agents (arch-auditor, codebase-analyzer, test-runner, etc.) |
 | `claude/commands/` | Custom commands (/create_pr, /create_handoff, /resume_handoff) |
-| `claude/workflows/` | Memory bank workflow templates |
 
 ## Getting Started
 
