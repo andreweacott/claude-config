@@ -1,0 +1,7 @@
+# OS files
+.DS_Store
+
+# Local overrides (create these locally if needed)
+claude/settings.json
+claude/settings.local.json
+claude/config.json
