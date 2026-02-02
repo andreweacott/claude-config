@@ -1,6 +1,6 @@
 # Claude Code Configuration
 
-Personal Claude Code setup (agents, commands, workflows) managed with GNU Stow for easy sharing across machines.
+Personal Claude Code setup (agents, commands) managed with GNU Stow for easy sharing across machines.
 
 ## What's Included
 
